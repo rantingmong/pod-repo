@@ -12,8 +12,8 @@ Pod::Spec.new do |s|
 
     s.public_header_files   = "libcairo/cairo/cairo-features.h",
                               "libcairo/cairo/cairo-deprecated.h",
-                              "libcairo/cairo/cairo.h",
-                              "libcairo/cairo-version.h"
+                              "libcairo/cairo/cairo-version.h",
+                              "libcairo/cairo/cairo.h"
 
     s.static_framework      = true
 
